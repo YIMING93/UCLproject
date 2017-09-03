@@ -1,3 +1,2 @@
 Files distance_data_t10k-images-idx3.mat and distance_usps_data.mat are larger than the maximum size of upload in github.
-Please using diatance computation codes in dataset_transform_functions_and_labels to generate these two .mat files before running the
-experiment codes in this project.
+Please using diatance computation codes in dataset_transform_functions_and_labels to generate these two .mat files before running the experiment codes in this project.
